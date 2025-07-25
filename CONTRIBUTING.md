@@ -13,7 +13,7 @@ If the issue or feature request you are submitting is not already listed in the 
 ## Adding a Project to the List of Adopters
 
 * Fork the repository.
-* Add a new row to the [adopters.csv](static/adopters.csv) file,
+* Add a new row to the [adopters.csv](assets/adopters.csv) file,
   with the project name in the first column, and the project URL in the second column.
 * Open a pull request.
 
@@ -78,7 +78,7 @@ If you are using [Homebrew](https://brew.sh) on macOS:
 brew install hugo
 ```
 
-3. From the respository's root directory, start the development server and then view it at http://localhost:1313/.
+3. From the repository's root directory, start the development server and then view it at http://localhost:1313/.
 
 ```bash
 hugo server -D
