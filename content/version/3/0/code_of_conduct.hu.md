@@ -2,98 +2,92 @@
 title = "Contributor Covenant 3"
 version = "3.0"
 aliases = ["/version/3/0/hu"]
-reportingPlaceholder = "[MEGJEGYZÉS: Itt írja le a bejelentési eljárást.]"
-enforcementPlaceholder = "[MEGJEGYZÉS: Az alábbiakban felsorolt, a szabályszegésekre és a jogorvoslatra vonatkozó intézkedések a magatartási kódexek érvényesítésének bevált gyakorlatai alapján készült javaslatok. Ha közösségüknek saját eljárásai vannak, kérjük, ennek megfelelően módosítsák ezt a részt.]"
+reportingPlaceholder = "[MEGJEGYZÉS: Itt írja le a bejelentés módját.]"
+enforcementPlaceholder = "[MEGJEGYZÉS: Az alább ismertetett intézkedések és jóvátételi lépések a magatartási kódex érvényesítésének bevált gyakorlatai alapján megfogalmazott javaslatok. Ha a közösségnek saját, kialakult eljárásrendje van, ezt a részt mindenképpen úgy kell módosítani, hogy az a közösség saját szabályait írja le.]"
 +++
 
-# Contributor Covenant 3.0 Közreműködők Magatartási Kódexe
+# Contributor Covenant 3.0 magatartási kódex
 
 ## Vállalásunk
 
-Elkötelezzük magunkat amellett, hogy közösségünket mindenki számára nyitottá, biztonságosá és méltányosá tegyük.
+Vállaljuk, hogy közösségünket mindenki számára befogadóvá, biztonságossá és méltányossá tesszük.
 
-Elkötelezettek vagyunk egy olyan környezet kialakítása mellett, amely tiszteletben tartja és előmozdítja minden egyén méltóságát, jogait és hozzájárulását, függetlenül olyan jellemzőktől, mint a faj, etnikai hovatartozás, kaszt, bőrszín, életkor, fizikai jellemzők, idegrendszeri sokszínűség, fogyatékosság, nem vagy nemi identitás, nemi identitás vagy annak kifejezése, szexuális irányultság, nyelv, világnézet vagy vallás, nemzeti vagy társadalmi származás, társadalmi-gazdasági helyzet, iskolai végzettség vagy egyéb státusz. Ugyanazok a részvételi jogok vonatkoznak mindenkire, aki jóhiszeműen és e megállapodásnak megfelelően vesz részt.
+Elkötelezettek vagyunk egy olyan környezet kialakítása mellett, amely tiszteletben tartja és előmozdítja minden egyén méltóságát, jogait és hozzájárulását, függetlenül olyan jellemzőktől, mint a faj, etnikai hovatartozás, kaszt, bőrszín, életkor, testi jellemzők, neurodiverzitás, fogyatékosság, biológiai nem vagy társadalmi nem, nemi identitás vagy annak kifejezése, szexuális irányultság, nyelv, világnézet vagy vallás, nemzeti vagy társadalmi származás, társadalmi-gazdasági helyzet, iskolai végzettség vagy egyéb státusz. A részvétel azonos lehetőségei mindenkit megilletnek, aki jóhiszeműen és e Kódexszel összhangban vesz részt.
 
+## Javasolt magatartásformák
 
-## Elvárt magatartásformák
+Miközben tudatában vagyunk a társadalmi normák közötti különbségeknek, mindannyian arra törekszünk, hogy megfeleljünk közösségünk pozitív magatartással kapcsolatos elvárásainak. Azt is megértjük, hogy szavainkat és tetteinket a kultúra, az előzmények vagy az anyanyelv miatt másként is értelmezhetik, mint ahogyan azt mi szándékoztuk.
 
-Bár tisztában vagyunk a társadalmi normák közötti különbségekkel, mindannyian arra törekszünk, hogy megfeleljünk a közösségünk pozitív viselkedéssel kapcsolatos elvárásainak. Ugyanakkor tudjuk, hogy szavainkat és cselekedeteinket a kultúra, a háttér vagy az anyanyelv függvényében másképp értelmezhetik, mint ahogyan mi szántuk.
+Ezeket a szempontokat szem előtt tartva vállaljuk, hogy figyelmesen fordulunk egymás felé, és úgy cselekszünk, hogy közös értékeink álljanak a középpontban, ideértve a következőket:
 
-Ezeket a szempontokat szem előtt tartva vállaljuk, hogy egymással szemben figyelmesen viselkedünk, és olyan módon cselekszünk, amely középpontba helyezi közös értékeinket, ideértve a következőket:
-
-1. Tiszteletben tartva **közösségünk célját**, tevékenységeinket és összejöveteleink módját.
-2. **Kedvesen és őszintén** viszonyulni másokhoz.
+1. **Közösségünk céljának**, tevékenységeinek és kapcsolódási módjainak tiszteletben tartása.
+2. **Kedves és őszinte** kapcsolódás másokhoz.
 3. A **különböző nézőpontok** és tapasztalatok tiszteletben tartása.
-4. **Felelősséget vállalni** tetteinkért és hozzájárulásainkért.
-5. **Építő jellegű visszajelzéseket** udvariasan adni és fogadni.
-6. Elkötelezettség a **károk helyrehozása** mellett, amikor azok bekövetkeznek.
-7. Olyan egyéb magatartásformák, amelyek elősegítik és fenntartják **közösségünk jólétét**.
+4. **Felelősségvállalás** tetteinkért és hozzájárulásainkért.
+5. **Építő jellegű visszajelzés** tapintatos adása és elfogadása.
+6. Elköteleződés az **okozott sérelmek jóvátétele** mellett, amikor azok bekövetkeznek.
+7. Minden egyéb olyan viselkedés, amely elősegíti és fenntartja **közösségünk jóllétét**.
 
+## Korlátozott magatartásformák
 
-## Elfogadhatatlan magatartásformák
-
-Megállapodunk abban, hogy közösségünkben korlátozzuk az alábbi magatartásformákat. Ezen magatartásformák megnyilvánulása, az azokkal való fenyegetőzés, valamint azok népszerűsítése a jelen magatartási kódex megsértését jelenti.
+Közösségünkben az alábbi magatartásformák nem megengedettek. E magatartásformák bármely esete, az azokkal való fenyegetés, illetve azok népszerűsítése a jelen Magatartási kódex megsértésének minősül.
 
 1. **Zaklatás.** Kifejezetten megfogalmazott határok megsértése, vagy indokolatlan személyes közeledés folytatása azt követően, hogy a másik fél egyértelműen kérte ennek abbahagyását.
-2. **Személyeskedés.** Egy közösség tagja vagy egy csoport felé irányuló sértő, megalázó vagy becsmérlő megjegyzések tétele.
-3. **Előítéletek vagy diszkrimináció.** Valakinek a személyiségét vagy viselkedését megváltoztathatatlan identitások vagy tulajdonságok alapján jellemezni.
+2. **Személyeskedő támadások.** Közösségi tag vagy emberek egy csoportja ellen irányuló sértő, megalázó vagy becsmérlő megjegyzések tétele.
+3. **Sztereotipizálás vagy diszkrimináció.** Valaki személyiségének vagy viselkedésének megváltoztathatatlan identitásjegyek vagy tulajdonságok alapján történő jellemzése.
 4. **Szexualizálás.** Olyan viselkedés, amely az adott közösség kontextusában vagy céljához mérten általában indokolatlanul intimnek minősül.
-5. **A titoktartás megsértése**. Valaki személyes vagy magánjellegű adatainak engedély nélküli továbbadása vagy azok alapján történő cselekvés.
-6. **Veszélyeztetés.** Erőszak vagy egyéb sérelem okozása, ösztönzése vagy azzal való fenyegetés bármely személy vagy csoport ellen.
-7. Egyéb magatartásformák, amelyek **közösségünk jólétét veszélyeztetik**.
+5. **A titoktartás megsértése.** Valaki személyes vagy magánjellegű információinak megosztása vagy azok alapján történő cselekvés az érintett engedélye nélkül.
+6. **Veszélyeztetés.** Erőszak vagy más sérelem okozása, ösztönzése vagy azzal való fenyegetés bármely személy vagy csoport ellen.
+7. Minden egyéb olyan viselkedés, amely **veszélyezteti közösségünk jóllétét**.
 
-### Egyéb korlátozások
+### További korlátozások
 
-1. **Hamis személyazonosság.** Bármilyen okból másnak kiadni magát, vagy másnak tettetni magát a hatósági intézkedések elkerülése érdekében.
-2. **A források megjelölésének elmulasztása.** A közzétett tartalom forrásainak nem megfelelő megjelölése.
-3. **Reklámanyagok**. Olyan módon történő marketing- vagy egyéb kereskedelmi tartalom megosztása, amely nem felel meg a közösség normáinak.
-4. **Felelőtlen kommunikáció.** Olyan tartalom nem kellően felelős módon történő közzététele, amely bármely más korlátozott viselkedést tartalmaz, arra hivatkozik, vagy azt leírja.
+1. **Megtévesztő személyazonosság.** Más személy megszemélyesítése bármilyen okból, illetve annak színlelése, hogy valaki mások vagyunk, a szabályérvényesítési intézkedések elkerülése érdekében.
+2. **A forrásmegjelölés elmulasztása.** A közzétett tartalom forrásainak nem megfelelő feltüntetése.
+3. **Promóciós anyagok.** Marketing- vagy egyéb kereskedelmi tartalom megosztása a közösség normáin kívül eső módon.
+4. **Felelőtlen kommunikáció.** Olyan tartalom felelőtlen közreadása, amely bármely más korlátozott magatartást tartalmaz, arra hivatkozik vagy azt leírja.
 
+## Incidens bejelentése
 
-## Esemény bejelentése
+A közösség tagjai között akkor is kialakulhat feszültség, amikor mindenki a lehető legjobb szándékkal törekszik az együttműködésre. Nem minden konfliktus minősül a Magatartási kódex megsértésének, és ez a Magatartási kódex megerősíti azokat a javasolt magatartásformákat és normákat, amelyek segíthetnek a konfliktusok elkerülésében és a sérelmek mérséklésében.
 
-A közösség tagjai között feszültségek alakulhatnak ki akkor is, ha minden tőlük telhetőt megtesznek az együttműködés érdekében. Nem minden konfliktus jelenti a magatartási kódex megsértését, és ez a magatartási kódex azokat a javasolt magatartásformákat és normákat erősíti meg, amelyek segíthetnek a konfliktusok elkerülésében és a károk minimalizálásában.
+Ha mégis incidens történik, fontos annak haladéktalan bejelentése. Lehetséges szabálysértés bejelentéséhez **[MEGJEGYZÉS: Itt írja le a bejelentés módját.]**
 
-Ha mégis bekövetkezik egy incidens, fontos, hogy azt haladéktalanul jelentsék. Egy esetleges szabálysértés bejelentéséhez **[MEGJEGYZÉS: itt írja le a bejelentés módját.]**
+A közösségi moderátorok komolyan veszik a szabálysértésekről szóló bejelentéseket, és mindent megtesznek azért, hogy időben reagáljanak rájuk. A Magatartási kódex megsértésére vonatkozó valamennyi bejelentést kivizsgálják: áttekintik az üzeneteket, naplókat és felvételeket, illetve szükség esetén tanúkat és más résztvevőket hallgatnak meg. A közösségi moderátorok a vizsgálatot és a szabályérvényesítési intézkedéseket a lehető legátláthatóbban kezelik, miközben elsőbbséget adnak a biztonságnak és a bizalmas kezelésnek. Ezen értékek tiszteletben tartása érdekében a szabályérvényesítési intézkedéseket nem nyilvánosan, az érintett felekkel folytatják le, ugyanakkor a teljes közösség tájékoztatása is része lehet egy közös megegyezéssel kialakított rendezésnek.
 
-A közösségi moderátorok komolyan veszik a szabálysértésekről szóló bejelentéseket, és mindent megtesznek azért, hogy időben reagáljanak rájuk. A magatartási kódex megsértésére vonatkozó valamennyi bejelentést kivizsgálják: áttekintik az üzeneteket, naplókat és felvételeket, illetve szükség esetén tanúkat és más résztvevőket hallgatnak meg. A moderátorok a szabálysértésekkel kapcsolatos vizsgálatokat és intézkedéseket a lehető legátláthatóbbá teszik, miközben a biztonság és a titoktartás elsőbbséget élvez. A magatartási kódex betartatására irányuló intézkedések  zárt körben, az érintett felekkel történnek, de a közösség egészének tájékoztatása is része lehet egy kölcsönösen elfogadott megoldásnak.
+## A sérelmek kezelése és jóvátétele
 
+**[MEGJEGYZÉS: Az alább ismertetett intézkedések és jóvátételi lépések a magatartási kódex érvényesítésének bevált gyakorlatai alapján megfogalmazott javaslatok. Ha a közösségnek saját, kialakult eljárásrendje van, ezt a részt mindenképpen úgy kell módosítani, hogy az a közösség saját szabályait írja le.]**
 
-## A sérelem kezelése és orvoslása
-
-**[MEGJEGYZÉS: Az alábbiakban ismertetett jogorvoslati és helyreállítási intézkedések a magatartási kódex érvényesítésének bevált gyakorlatai alapján megfogalmazott javaslatok. Ha a közösségednek saját, kialakult érvényesítési eljárása van, mindenképpen módosítsd ezt a részt, hogy leírhasd a saját irányelveidet.]**
-
-Ha a közösségi moderátorok vizsgálata megállapítja, hogy megsértették a jelen magatartási kódexet, az alábbi végrehajtási lépcsőfokokat lehet alkalmazni annak meghatározására, hogy az érintett személyekre és a közösség egészére gyakorolt hatás alapján hogyan lehet a kárt a legjobban orvosolni. A szabálysértés súlyosságától függően a lépcsőfokok alsóbb fokai kihagyhatók.
+Ha a közösségi moderátorok vizsgálata megállapítja, hogy megsértették ezt a Magatartási kódexet, az alábbi intézkedési lépcsőzet használható annak meghatározására, hogy az érintett személyekre és a közösség egészére gyakorolt hatás alapján miként orvosolható legjobban az okozott sérelem. A szabálysértés súlyosságától függően a lépcsőzet alacsonyabb fokozatai kihagyhatók.
 
 1) Figyelmeztetés
-   1) Esemény: Egyetlen incidenssel vagy incidenssorozattal járó szabályszegés.
-   2) Következmény: A közösségi moderátoroktól érkező, zárt körű, írásbeli figyelmeztetés.
-   3) Helyreállítás: A helyreállítás példái közé tartozik a zárt körű, írásbeli bocsánatkérés, a felelősség elismerése és a várakozások tisztázása.
-2) Ideiglenesen korlátozott tevékenységek
-   1) Esemény: Olyan szabálysértés ismételt előfordulása, amely korábban figyelmeztetést eredményezett, vagy egy súlyosabb szabálysértés első előfordulása.
-   2) Következmény: Zárt, írásbeli figyelmeztetés, időkorlátozott hűtheti időszakkal, amelynek célja a helyzet súlyosságának hangsúlyozása és az érintett közösségi tagoknak idő biztosítása az eset feldolgozására. A hűtheti időszak korlátozódhat bizonyos kommunikációs csatornákra vagy bizonyos közösségi tagokkal való interakciókra.
-   3) Javítás: A javítás példái lehetnek a bocsánatkérés, a hűtheti időszak kihasználása a cselekedetek és azok hatásának átgondolására, valamint a hűtheti időszak lejárta után a közösségi terekbe való visszatérés átgondolása.
+   1) Eset: Olyan szabálysértés, amely egyetlen incidensből vagy incidensek sorozatából áll.
+   2) Következmény: A közösségi moderátorok nem nyilvános, írásbeli figyelmeztetése.
+   3) Jóvátétel: Ilyen jóvátétel lehet például a nem nyilvános írásbeli bocsánatkérés, a felelősség elismerése, valamint az elvárások tisztázásának kezdeményezése.
+2) Ideiglenesen korlátozott részvétel
+   1) Eset: Olyan ismételt szabálysértés, amelyet korábban már figyelmeztetés követett, vagy egy súlyosabb szabálysértés első esete.
+   2) Következmény: Nem nyilvános, írásbeli figyelmeztetés időben korlátozott lehűlési időszakkal, amelynek célja a helyzet súlyosságának hangsúlyozása, valamint annak biztosítása, hogy az érintett közösségi tagoknak legyen idejük feldolgozni az incidenst. A lehűlési időszak korlátozódhat bizonyos kommunikációs csatornákra vagy egyes közösségi tagokkal való kapcsolattartásra.
+   3) Jóvátétel: Ilyen jóvátétel lehet a bocsánatkérés, a lehűlési időszak felhasználása a saját cselekedetek és azok hatásának átgondolására, valamint a közösségi terekbe való visszatérés körültekintő kezelése az időszak lejárta után.
 3) Ideiglenes felfüggesztés
-   1) Esemény: Ismétlődő szabályszegés, amelyet a közösségi moderátorok figyelmeztetésekkel próbáltak kezelni, vagy egyetlen súlyos szabályszegés.
-   2) Következmény: Zárt körű írásbeli figyelmeztetés a felfüggesztésből való visszatérés feltételeivel. Általában az ideiglenes felfüggesztések időt adnak a felfüggesztett személynek, hogy átgondolja viselkedését és a lehetséges korrekciós intézkedéseket.
-   3) Helyreállítás: A helyreállítás példái közé tartozik a felfüggesztés szellemének tiszteletben tartása, a visszatérésre vonatkozó feltételek teljesítése, valamint a felfüggesztés feloldása után a közösségbe való visszailleszkedés átgondolása.
+   1) Eset: Visszatérő szabálysértések olyan mintázata, amelyet a közösségi moderátorok figyelmeztetésekkel már megpróbáltak kezelni, vagy egyetlen súlyos szabálysértés.
+   2) Következmény: Nem nyilvános, írásbeli figyelmeztetés a felfüggesztésből való visszatérés feltételeivel. Az ideiglenes felfüggesztés általában arra szolgál, hogy az érintett személynek ideje legyen átgondolni a viselkedését és a lehetséges korrekciós lépéseket.
+   3) Jóvátétel: Ilyen jóvátétel lehet a felfüggesztés szellemének tiszteletben tartása, a visszatérés feltételeinek teljesítése, valamint annak átgondolása, hogyan lehet a felfüggesztés megszűnése után újra beilleszkedni a közösségbe.
 4) Végleges kizárás
-   1) Esemény: Ismétlődő magatartási kódex-megsértések, amelyeket a lépcső többi fokán már nem sikerült megoldani, vagy olyan súlyos szabályszegés, amelyről a közösségi moderátorok úgy ítélik meg, hogy ennek a személynek a tagsága mellett a közösség biztonsága nem garantálható.
-   2) Következmény: Az összes közösségi tér, eszköz és kommunikációs csatorna hozzáférésének megvonása. Általánosságban elmondható, hogy az állandó kizárást ritkán szabad alkalmazni, annak mögött erős indokoknak kell állniuk, és csak akkor szabad igénybe venni, ha más intézkedésekkel nem sikerült megváltoztatni a viselkedést.
-   3) Javítás: Ilyen súlyos esetekben nincs lehetőség a helyzet javítására.
+   1) Eset: A Magatartási kódex ismétlődő megsértésének olyan mintázata, amelyet a lépcsőzet más fokozatai nem tudtak rendezni, vagy olyan súlyos szabálysértés, amely esetén a közösségi moderátorok úgy ítélik meg, hogy az érintett személy tagsága mellett a közösség biztonsága nem garantálható.
+   2) Következmény: Az érintett személy elveszíti hozzáférését a közösség valamennyi teréhez, eszközéhez és kommunikációs csatornájához. Általánosságban a végleges kizárást ritkán kell alkalmazni, azt erős indokoknak kell alátámasztaniuk, és csak akkor indokolt ehhez folyamodni, ha más intézkedések nem vezettek a viselkedés megváltozásához.
+   3) Jóvátétel: Ilyen súlyosságú esetekben nincs lehetőség jóvátételre.
 
-Ez a szankciós lépcsőfok irányelvként szolgál. Nem korlátozza a közösségi menedzserek azon képességét, hogy saját belátásuk és ítélőképességük szerint járjanak el, a közösségünk legjobb érdekeit szem előtt tartva.
-
+Ez az intézkedési lépcsőzet iránymutatásként szolgál. Nem korlátozza a közösségi vezetők mérlegelési és döntési jogkörét, amennyiben azt közösségünk legjobb érdekeinek megfelelően gyakorolják.
 
 ## Hatály
 
-Ez a magatartási kódex minden közösségi felületen érvényes, valamint akkor is, ha valaki hivatalosan képviseli a közösséget nyilvános vagy egyéb fórumokon. A közösségünk képviseletének példái közé tartozik a hivatalos e-mail-cím használata, a hivatalos közösségi média-fiókon történő posztolás, illetve kinevezett képviselőként való fellépés online vagy offline rendezvényeken.
-
+Ez a Magatartási kódex minden közösségi térben alkalmazandó, és akkor is érvényes, amikor valaki a közösséget nyilvánosan vagy más terekben hivatalosan képviseli. A közösség képviseletének példái közé tartozik a hivatalos e-mail-cím használata, a hivatalos közösségimédia-fiókon történő közzététel, illetve a kinevezett képviselőként való fellépés online vagy offline eseményeken.
 
 ## Forrásmegjelölés
 
-Ez a Magatartási kódex a Contributor Covenant 3.0-s verziója alapján készült, amely elérhető az alábbi oldalon:: [https://www.contributor-covenant.org/version/3/0/](https://www.contributor-covenant.org/version/3/0/).
+Ez a Magatartási kódex a Contributor Covenant 3.0-s változata alapján készült, amely tartósan elérhető itt: [https://www.contributor-covenant.org/version/3/0/](https://www.contributor-covenant.org/version/3/0/).
 
 A Contributor Covenant gondozója az Organization for Ethical Source, és a szöveg a CC BY-SA 4.0 licenc alatt érhető el. A licenc egy példánya itt tekinthető meg: [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/)
 
-A Contributor Covenanttal kapcsolatos gyakori kérdésekre adott válaszok a GYIK-ben találhatók: [https://www.contributor-covenant.org/faq](https://www.contributor-covenant.org/faq). A fordítások itt érhetők el: [https://www.contributor-covenant.org/translations](https://www.contributor-covenant.org/translations). További, a szabályérvényesítéssel és közösségi irányelvekkel kapcsolatos források itt találhatók: [https://www.contributor-covenant.org/resources](https://www.contributor-covenant.org/resources). A sérelmek kezelésére vonatkozó iránymutatásokat a [Mozilla magatartási kódexért felelős csapatának](https://github.com/mozilla/inclusion) munkája inspirálta.
+A Contributor Covenanttal kapcsolatos gyakori kérdésekre adott válaszok a GYIK-ben találhatók: [https://www.contributor-covenant.org/faq](https://www.contributor-covenant.org/faq). A fordítások itt érhetők el: [https://www.contributor-covenant.org/translations](https://www.contributor-covenant.org/translations). További, a szabályérvényesítéssel és közösségi irányelvekkel kapcsolatos források itt találhatók: [https://www.contributor-covenant.org/resources](https://www.contributor-covenant.org/resources). Az intézkedési lépcsőzetet a [Mozilla magatartási kódexért felelős csapatának](https://github.com/mozilla/inclusion) munkája inspirálta.
