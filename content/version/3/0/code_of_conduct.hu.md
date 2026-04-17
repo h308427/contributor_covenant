@@ -30,24 +30,24 @@ Ezeket a szempontokat szem előtt tartva vállaljuk, hogy egymással szemben fig
 7. Olyan egyéb magatartásformák, amelyek elősegítik és fenntartják **közösségünk jólétét**.
 
 
-## Restricted Behaviors
+## Elfogadhatatlan magatartásformák
 
-We agree to restrict the following behaviors in our community. Instances, threats, and promotion of these behaviors are violations of this Code of Conduct.
+Megállapodunk abban, hogy közösségünkben korlátozzuk az alábbi magatartásformákat. Ezen magatartásformák megnyilvánulása, az azokkal való fenyegetőzés, valamint azok népszerűsítése a jelen magatartási kódex megsértését jelenti.
 
-1. **Harassment.** Violating explicitly expressed boundaries or engaging in unnecessary personal attention after any clear request to stop.
-2. **Character attacks.** Making insulting, demeaning, or pejorative comments directed at a community member or group of people.
-3. **Stereotyping or discrimination.** Characterizing anyone’s personality or behavior on the basis of immutable identities or traits.
-4. **Sexualization.** Behaving in a way that would generally be considered inappropriately intimate in the context or purpose of the community.
-5. **Violating confidentiality**. Sharing or acting on someone's personal or private information without their permission.
-6. **Endangerment.** Causing, encouraging, or threatening violence or other harm toward any person or group.
-7. Behaving in other ways that **threaten the well-being** of our community.
+1. **Zaklatás.** Kifejezetten megfogalmazott határok megsértése, vagy indokolatlan személyes közeledés folytatása azt követően, hogy a másik fél egyértelműen kérte ennek abbahagyását.
+2. **Személyeskedés.** Egy közösség tagja vagy egy csoport felé irányuló sértő, megalázó vagy becsmérlő megjegyzések tétele.
+3. **Előítéletek vagy diszkrimináció.** Valakinek a személyiségét vagy viselkedését megváltoztathatatlan identitások vagy tulajdonságok alapján jellemezni.
+4. **Szexualizálás.** Olyan viselkedés, amely az adott közösség kontextusában vagy céljához mérten általában indokolatlanul intimnek minősül.
+5. **A titoktartás megsértése**. Valaki személyes vagy magánjellegű adatainak engedély nélküli továbbadása vagy azok alapján történő cselekvés.
+6. **Veszélyeztetés.** Erőszak vagy egyéb sérelem okozása, ösztönzése vagy azzal való fenyegetés bármely személy vagy csoport ellen.
+7. Egyéb magatartásformák, amelyek **közösségünk jólétét veszélyeztetik**.
 
-### Other Restrictions
+### Egyéb korlátozások
 
-1. **Misleading identity.** Impersonating someone else for any reason, or pretending to be someone else to evade enforcement actions.
-2. **Failing to credit sources.** Not properly crediting the sources of content you contribute.
-3. **Promotional materials**. Sharing marketing or other commercial content in a way that is outside the norms of the community.
-4. **Irresponsible communication.** Failing to responsibly present content which includes, links or describes any other restricted behaviors.
+1. **Hamis személyazonosság.** Bármilyen okból másnak kiadni magát, vagy másnak tettetni magát a hatósági intézkedések elkerülése érdekében.
+2. **A források megjelölésének elmulasztása.** A közzétett tartalom forrásainak nem megfelelő megjelölése.
+3. **Reklámanyagok**. Olyan módon történő marketing- vagy egyéb kereskedelmi tartalom megosztása, amely nem felel meg a közösség normáinak.
+4. **Felelőtlen kommunikáció.** Olyan tartalom nem kellően felelős módon történő közzététele, amely bármely más korlátozott viselkedést tartalmaz, arra hivatkozik, vagy azt leírja.
 
 
 ## Reporting an Issue
