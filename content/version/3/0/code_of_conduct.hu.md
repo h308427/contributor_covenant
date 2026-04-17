@@ -85,15 +85,15 @@ If an investigation by the Community Moderators finds that this Code of Conduct 
 This enforcement ladder is intended as a guideline. It does not limit the ability of Community Managers to use their discretion and judgment, in keeping with the best interests of our community.
 
 
-## Scope
+## Hatály
 
-This Code of Conduct applies within all community spaces, and also applies when an individual is officially representing the community in public or other spaces. Examples of representing our community include using an official email address, posting via an official social media account, or acting as an appointed representative at an online or offline event.
+Ez a magatartási kódex minden közösségi felületen érvényes, valamint akkor is, ha valaki hivatalosan képviseli a közösséget nyilvános vagy egyéb fórumokon. A közösségünk képviseletének példái közé tartozik a hivatalos e-mail-cím használata, a hivatalos közösségi média-fiókon történő posztolás, illetve kinevezett képviselőként való fellépés online vagy offline rendezvényeken.
 
 
-## Attribution
+## Forrásmegjelölés
 
-This Code of Conduct is adapted from the Contributor Covenant, version 3.0, permanently available at [https://www.contributor-covenant.org/version/3/0/](https://www.contributor-covenant.org/version/3/0/).
+Ez a Magatartási kódex a Contributor Covenant 3.0-s verziója alapján készült, amely elérhető az alábbi oldalon:: [https://www.contributor-covenant.org/version/3/0/](https://www.contributor-covenant.org/version/3/0/).
 
-Contributor Covenant is stewarded by the Organization for Ethical Source and licensed under CC BY-SA 4.0. To view a copy of this license, visit [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/)
+A Contributor Covenant gondozója az Organization for Ethical Source, és a szöveg a CC BY-SA 4.0 licenc alatt érhető el. A licenc egy példánya itt tekinthető meg: [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/)
 
-For answers to common questions about Contributor Covenant, see the FAQ at [https://www.contributor-covenant.org/faq](https://www.contributor-covenant.org/faq). Translations are provided at [https://www.contributor-covenant.org/translations](https://www.contributor-covenant.org/translations). Additional enforcement and community guideline resources can be found at [https://www.contributor-covenant.org/resources](https://www.contributor-covenant.org/resources). The enforcement ladder was inspired by the work of [Mozilla’s code of conduct team](https://github.com/mozilla/inclusion).
+A Contributor Covenanttal kapcsolatos gyakori kérdésekre adott válaszok a GYIK-ben találhatók: [https://www.contributor-covenant.org/faq](https://www.contributor-covenant.org/faq). A fordítások itt érhetők el: [https://www.contributor-covenant.org/translations](https://www.contributor-covenant.org/translations). További, a szabályérvényesítéssel és közösségi irányelvekkel kapcsolatos források itt találhatók: [https://www.contributor-covenant.org/resources](https://www.contributor-covenant.org/resources). A sérelmek kezelésére vonatkozó iránymutatásokat a [Mozilla magatartási kódexért felelős csapatának](https://github.com/mozilla/inclusion) munkája inspirálta.
